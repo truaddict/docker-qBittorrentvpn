@@ -2,8 +2,8 @@
 #
 # Version 1.8
 
-FROM ubuntu:18.04
-MAINTAINER MarkusMcNugen
+FROM ubuntu:20.04
+MAINTAINER truaddict
 
 VOLUME /downloads
 VOLUME /config
